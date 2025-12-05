@@ -1,4 +1,4 @@
-# 🧬 Biosynthesiss
+# 🧬 Biosyn
 **AI + Synthetic Biology Platform for Drug Repurposing**  
 _Unlocking new treatments for cancer and rare diseases using omics intelligence._
 
